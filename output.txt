@@ -1,0 +1,30 @@
+initial depth of tree: 14, size: 100
+final size: 187
+final depth: 16
+initial depth of tree: 13, size: 100
+final size: 197
+final depth: 15
+initial depth of tree: 12, size: 100
+final size: 9
+final depth: 6
+initial depth of tree: 14, size: 100
+final size: 201
+final depth: 15
+initial depth of tree: 14, size: 100
+final size: 201
+final depth: 14
+initial depth of tree: 13, size: 100
+final size: 1
+final depth: 1
+initial depth of tree: 12, size: 100
+final size: 33
+final depth: 10
+initial depth of tree: 13, size: 100
+final size: 198
+final depth: 13
+initial depth of tree: 12, size: 100
+final size: 43
+final depth: 13
+initial depth of tree: 14, size: 100
+final size: 201
+final depth: 15
